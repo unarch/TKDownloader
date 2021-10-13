@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TKNetworkDemo-TKNetworkDemoUITests/Pods-TKNetworkDemo-TKNetworkDemoUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
